@@ -1,0 +1,39 @@
+[submodule "task1"]
+	path = task1
+	url = https://github.com/Niharika1001/blog_system_api_niharika
+[submodule "task2"]
+	path = task2
+	url = https://github.com/Niharika1001/user_management_api
+[submodule "task3"]
+	path = task3
+	url = https://github.com/Niharika1001/Component_library
+[submodule "task4"]
+	path = task4
+	url = https://github.com/Niharika1001/ecommerce-product-page-niharika
+[submodule "task5"]
+	path = task5
+	url = https://github.com/Niharika1001/blog_api_niharika
+[submodule "task6"]
+	path = task6
+	url = https://github.com/Niharika1001/Multi_stage_form
+[submodule "task7"]
+	path = task7
+	url = https://github.com/Niharika1001/Advanced_contact_form_niharika
+[submodule "task8"]
+	path = task8
+	url = https://github.com/Niharika1001/Todo_APP_Niharika
+[submodule "task9"]
+	path = task9
+	url = https://github.com/Niharika1001/github_profile_tabs_Niharika
+[submodule "task10"]
+	path = task10
+	url = https://github.com/Niharika1001/user_profile_card_niharika
+[submodule "task11"]
+	path = task11
+	url = https://github.com/Niharika1001/movie_filter_niharika
+[submodule "task12"]
+	path = task12
+	url = https://github.com/Niharika1001/github_profile_Repo_Niharika
+[submodule "stikdeals"]
+	path = stikdeals
+	url = https://github.com/Niharika1001/stikdeals
